@@ -34,7 +34,7 @@ public class Role {
         return "Role{" +
                 "id=" + id +
                 ", roleName='" + roleName + '\'' +
-                ", note='" + note + '\'' +6t
+                ", note='" + note + '\'' +
                 '}';
     }
 }
